@@ -1,4 +1,5 @@
-# asl_sign_spelling_classification
+# ASL Sign Spelling Classification
+
 Simple Resnet Model -- training pipeline for asl spelling classification
 
 
